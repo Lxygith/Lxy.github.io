@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://lxygith.github.io/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2020-02-12T02:29:50.214Z</updated>
-  <id>https://lxygith.github.io/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>长不大的学者</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>&#39;第一次写&#39;</title>
-    <link href="https://lxygith.github.io/2020/02/11/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99/"/>
-    <id>https://lxygith.github.io/2020/02/11/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99/</id>
+    <link href="http://yoursite.com/2020/02/11/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99/"/>
+    <id>http://yoursite.com/2020/02/11/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99/</id>
     <published>2020-02-11T11:38:09.000Z</published>
     <updated>2020-02-12T02:29:50.214Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>post你好，Hexo</title>
-    <link href="https://lxygith.github.io/2020/02/11/post%E4%BD%A0%E5%A5%BD%EF%BC%8CHexo/"/>
-    <id>https://lxygith.github.io/2020/02/11/post%E4%BD%A0%E5%A5%BD%EF%BC%8CHexo/</id>
+    <link href="http://yoursite.com/2020/02/11/post%E4%BD%A0%E5%A5%BD%EF%BC%8CHexo/"/>
+    <id>http://yoursite.com/2020/02/11/post%E4%BD%A0%E5%A5%BD%EF%BC%8CHexo/</id>
     <published>2020-02-11T11:34:54.000Z</published>
     <updated>2020-02-12T02:32:11.413Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://lxygith.github.io/2020/02/11/hello-world/"/>
-    <id>https://lxygith.github.io/2020/02/11/hello-world/</id>
+    <link href="http://yoursite.com/2020/02/11/hello-world/"/>
+    <id>http://yoursite.com/2020/02/11/hello-world/</id>
     <published>2020-02-11T10:37:48.505Z</published>
     <updated>2020-02-11T10:37:48.505Z</updated>
     
