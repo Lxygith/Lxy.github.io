@@ -1262,7 +1262,7 @@ body .ui-tooltip {
   margin: 30px;
   margin-bottom: 5px;
   position: relative;
-  background: rgba(255,255,255,0.45);
+  background: rgba(255,255,255,0);
   -webkit-transition: all 0.2s ease-in;
 }
 .article.show {
@@ -1832,6 +1832,9 @@ aside.comment-bar a span {
 }
 aside.comment-bar:active {
   background: none;
+}
+article {
+  border-radius: 17px;
 }
 @-moz-keyframes cd-bounce-1 {
   0% {
