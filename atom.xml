@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-13T02:13:28.890Z</updated>
+  <updated>2020-02-13T14:29:28.552Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>童年的回忆（待更新）</title>
+    <link href="http://yoursite.com/2020/02/13/%E7%AB%A5%E5%B9%B4%E5%9B%9E%E9%A1%BE/"/>
+    <id>http://yoursite.com/2020/02/13/%E7%AB%A5%E5%B9%B4%E5%9B%9E%E9%A1%BE/</id>
+    <published>2020-02-13T14:26:10.000Z</published>
+    <updated>2020-02-13T14:29:28.552Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="童年的回忆之动漫篇"><a href="#童年的回忆之动漫篇" class="headerlink" title="童年的回忆之动漫篇"></a>童年的回忆之动漫篇</h1><h2 id="日漫"><a href="#日漫" class="headerlink" title="日漫"></a>日漫</h2><h3 id="一-光能使者"><a href="#一-光能使者" class="headerlink" title="一.光能使者"></a>一.光能使者</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;童年的回忆之动漫篇&quot;&gt;&lt;a href=&quot;#童年的回忆之动漫篇&quot; class=&quot;headerlink&quot; title=&quot;童年的回忆之动漫篇&quot;&gt;&lt;/a&gt;童年的回忆之动漫篇&lt;/h1&gt;&lt;h2 id=&quot;日漫&quot;&gt;&lt;a href=&quot;#日漫&quot; class=&quot;headerlink&quot; 
+      
+    
+    </summary>
+    
+    
+      <category term="markdown" scheme="http://yoursite.com/categories/markdown/"/>
+    
+    
+      <category term="童年" scheme="http://yoursite.com/tags/%E7%AB%A5%E5%B9%B4/"/>
+    
+      <category term="回忆" scheme="http://yoursite.com/tags/%E5%9B%9E%E5%BF%86/"/>
+    
+  </entry>
   
   <entry>
     <title>&#39;第一次写&#39;</title>
