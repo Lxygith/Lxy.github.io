@@ -458,6 +458,26 @@
     
 
 
+  
+  <!-- Gitment���۲��ͨ�ô��� -->
+<div id="git"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  owner: "Lxygith",//github�û���
+  repo: "https://github.com/Lxygith/lxygith.github.io.git",//�û��洢���۵�github��Ŀ����
+  oauth: {
+    client_id: "66abb2891f0ec1166c0f",//ע��OAuth Applicationʱ������ClinetID
+    client_secret:"a1ed5fd9eae427ee4c679bc7ee6902c8bcf15bb6",//ע��OAuth Applicationʱ���ɵ�Client Secret
+  },
+})
+gitment.render('git')
+</script>
+<!-- Gitment������� -->
+  
+
+
 
 
     <div class="scroll" id="post-nav-button">
